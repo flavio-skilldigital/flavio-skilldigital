@@ -2,9 +2,9 @@
 
 ### 📣 Contact
 
-🌐 Site: ![https://skilldigital.com.br/](https://skilldigital.com.br/)
+🌐 Site: [https://skilldigital.com.br/](https://skilldigital.com.br/)
 
-✉ E-mail: ![flavio@skilldigital.com.br](mailto:flavio@skilldigital.com.br)
+✉ E-mail: [flavio@skilldigital.com.br](mailto:flavio@skilldigital.com.br)
 
 ### 🗂 GitHub Status:
 
