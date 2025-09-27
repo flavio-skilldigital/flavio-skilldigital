@@ -1,17 +1,9 @@
-## Hi there Flávio Oliveira, Dev Web Full Stack in Skill Digital LTDA👋🏿�
+## Hi there, I'm Flávio Oliveira, Dev Web Full Stack in Skill Digital Ltda 👋🏿
 
-<h3 align="left">Status GitHub:</h3>
-<br>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flavio-skilldigital
-&show_icons=true&theme=onedark&locale=en&layout=compact" alt="flavio-skilldigital
-" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=flavio-skilldigital
-&show_icons=true&theme=onedark&locale=en" alt="flavio-skilldigital
-" />
-  <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flavio-skilldigital
-&theme=onedark" alt="flavio-skilldigital
-" />
-</p>
+### GitHub Status:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-skilldigital&theme=yeblu&layout=donut-vertical&langs_count=8)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=flavio-skilldigital&show_icons=true&theme=yeblu)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=flavio-skilldigital&theme=yeblu&hide_border=true&mode=weekly)
