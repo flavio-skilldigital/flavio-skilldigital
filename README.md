@@ -13,5 +13,5 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=flavio-skilldigital&show_icons=true&theme=yeblu" alt="GitHub stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=flavio-skilldigital&theme=yeblu&hide_border=true&mode=weekly" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=flavio-skilldigital&theme=yeblu&mode=weekly" alt="GitHub Streak"/>
 </div>
